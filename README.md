@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL:  (https://cozymimi.github.io/qr-code-design/)] 
+- Live Site URL: https://cozymimi.github.io/qr-code-design
 
 
 ### Built with
