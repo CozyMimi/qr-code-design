@@ -13,7 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-[Alt text](<Screenshot 2023-07-03 at 19-13-16 Frontend Mentor QR code component.png>)
+[Screenshot](<Screenshot 2023-07-03 at 19-13-16 Frontend Mentor QR code component.png>)
 
 
 ### Links
