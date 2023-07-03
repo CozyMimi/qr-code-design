@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 [Screenshot](<Screenshot 2023-07-03 at 19-13-16 Frontend Mentor QR code component.png>)
 
-
+ 
 ### Links
 
 - Live Site URL: https://cozymimi.github.io/qr-code-design
