@@ -1,7 +1,8 @@
 body{
     background-color:  hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
-    text-align: center;   
+    text-align: center;
+    height:100vh;
 }
 h1{
   margin: 0;
